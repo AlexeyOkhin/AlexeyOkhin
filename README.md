@@ -4,6 +4,9 @@
 - 🌱 В данный момент усердно учу Swift, делаю пет проекты
 - 🤔 Знаю немного Dart, написал приложение для дочки) https://github.com/AlexeyOkhin/multiplicationTable
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djinsolobzik)](https://github.com/madushadhanushka/github-readme)
+
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 <!--
 **AlexeyOkhin/AlexeyOkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
