@@ -1,7 +1,4 @@
 ### Всем привет 👋 Меня зовут Алексей и я iOS разработчик)
-- 🔭 Работаю над проектом приложения для НКО https://github.com/fmh-charity/fmh-ios
-- 🌱 В далеком детстве изучал язык программирования Basic) на ПК8000) pascal, Delphi в иституте
-- 🤔 Знаю немного Dart, написал приложение для дочки) https://github.com/AlexeyOkhin/multiplicationTable
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djinsolobzik)](https://github.com/madushadhanushka/github-readme)
 
